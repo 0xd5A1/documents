@@ -8,5 +8,5 @@
 * [Tutorials](tutorials/README.md)
   * [Connect Your Wallet](tutorials/connect-your-wallet.md)
   * [Make Payments get CST](tutorials/make-payments-get-cst.md)
-* [The bStable DAO](the-bstable-dao.md)
+* [The CStable DAO](the-cstable-dao.md)
 * [Community](community.md)
