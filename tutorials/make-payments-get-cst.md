@@ -28,6 +28,6 @@ Select "Claim" to Claim your CST reward. Follow the instructions on the Metamask
 
 ![](<../.gitbook/assets/image (6).png>)
 
-Once you claim, your BST balance should be updated correspondingly.
+Once you claim, your CST balance should be updated correspondingly.
 
 ![](<../.gitbook/assets/image (5).png>)

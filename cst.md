@@ -45,7 +45,7 @@ In addition, for every 1 CST minted, an additional 0.1 CST (10%) will be minted 
 
 **The total distribution**, including the dev fund and the initial launch day release, will be as follows. For the purpose of this demonstration, the table below only shows CST issuance for the next 4 years. The chart below shows CST issuance for the next 8 years and shows the curve of diminishing CST issuance as it becomes more scarce over the years.
 
-| **BST Distribution**           | Year 1               | Year 2          | Year 3          | Year 4          |
+| **CST Distribution**           | Year 1               | Year 2          | Year 3          | Year 4          |
 | ------------------------------ | -------------------- | --------------- | --------------- | --------------- |
 | Released                       | 89,442,485.0498      | 44,721,242.5253 | 22,360,621.2629 | 11,180,310.6315 |
 | Dev Fund                       | 8,944,248.5050       | 4,472,124.2525  | 2,236,062.1263  | 1,118,031.0632  |

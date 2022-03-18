@@ -26,7 +26,7 @@ You can use CStable to pay in **one single, decentralized transaction.**
 
 ## What is CST?
 
-The CStable token (BST) is the token that holders will use to participate in the governance of the CStable DAO. CST is available as a BEP-20 token on Binance Smart Chain.&#x20;
+The CStable token (CST) is the token that holders will use to participate in the governance of the CStable DAO. CST is available as a ERC-20 token on Binance Smart Chain.&#x20;
 
 {% content-ref url="cst.md" %}
 [cst.md](cst.md)
@@ -34,7 +34,7 @@ The CStable token (BST) is the token that holders will use to participate in the
 
 ## How can I get CST?
 
-Whenever you make an on-chain payment using CStable, you will earn **BST.**&#x20;
+Whenever you make an on-chain payment using CStable, you will earn **CST.**&#x20;
 
 ****
 
@@ -56,7 +56,7 @@ Pay to Earn CST reward is based on:
 2. The accumulated dollar amount of payment made across the platform
 3. The total amount of unclaimed CST available for payment reward
 
-BST Reward Claimed by User = Unclaimed CST in Payment Pool  \* (User Unclaimed Payment Dollar Amount / Total Platform Unclaimed Dollar Amount)
+CST Reward Claimed by User = Unclaimed CST in Payment Pool  \* (User Unclaimed Payment Dollar Amount / Total Platform Unclaimed Dollar Amount)
 
 ⚠️ It is recommended that you claim the payment reward as soon as possible. Your pending reward balance may decrease with more participating users.
 
