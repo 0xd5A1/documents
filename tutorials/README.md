@@ -1,5 +1,5 @@
 ---
-description: How to use bStable to swap, earn, pay, and more.
+description: How to use CStable to swap, earn, pay, and more.
 ---
 
 # Tutorials

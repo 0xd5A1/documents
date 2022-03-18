@@ -4,7 +4,7 @@ description: Connect Your Wallet
 
 # Connect Your Wallet
 
-bStable currently supports connections from a variety of wallets. While tutorials are only currently available for MetaMask, there will be tutorials for more wallet types in the future.
+CStable currently supports connections from a variety of wallets. While tutorials are only currently available for MetaMask, there will be tutorials for more wallet types in the future.
 
 ### Step 1: Connect Your Metamask Wallet with BSC
 
@@ -32,9 +32,9 @@ Make sure you **deposit some BNB** into your wallet on the Binance Smart Chain N
 
 If you are having trouble, [try Binance’s tutorial here](https://docs.binance.org/smart-chain/wallet/metamask.html).
 
-### **Step 2: Connect your BSC Metamask Wallet with bStable**
+### **Step 2: Connect your BSC Metamask Wallet with CStable**
 
-Go to[ bStable.finance](https://bstable.finance/home/), click “connect wallet” on the upper right-hand corner and select Metamask.&#x20;
+Go to[ CStable.xyz](https://cstable.xyz/home/), click “connect wallet” on the upper right-hand corner and select Metamask.&#x20;
 
 ![](broken-reference)
 
@@ -46,6 +46,6 @@ Once successful, your Metamask wallet should display **“Connected”** on the 
 
 ![](https://lh6.googleusercontent.com/NNMokRkRcAZviu-P3C2mEiMoyRr2EhDjLukU2sU8prU6M8uNKXRelopfKVp0ulxlo-YHMVvYMwHXPVhsfbA-qi75m0HF8b67tMB1do5RUkLA3xun1E4jAFACM9nzpv4xFUjx2DkZ)
 
-Now you are all set up to use all of bStable!&#x20;
+Now you are all set up to use all of CStable!&#x20;
 
 Full video tutorial coming soon...
