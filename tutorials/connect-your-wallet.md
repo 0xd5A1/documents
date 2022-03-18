@@ -12,11 +12,11 @@ If you don’t already have a Metamask Wallet, check their [official website her
 
 Once Metamask Wallet is set up, open it and select network.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Select **Custom RPC** and configure the network as follows:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)
 
 **Network name:** Celo (Mainnet)
 
@@ -36,15 +36,15 @@ If you are having trouble, [try Celo’s tutorial here](https://docs.celo.org/ge
 
 Go to[ CStable.xyz](https://cstable.xyz/home/), click “connect wallet” on the upper right-hand corner and select Metamask.
 
-![](broken-reference)
+![](<../.gitbook/assets/image (1).png>)
 
-MetaMask extension will pop up, select a wallet on the BSC Network!
+MetaMask extension will pop up, select a wallet on the Celo Network!
 
 ![](https://lh5.googleusercontent.com/kBj48ExaVsHkce7GpXqYLDuOYejg70zEvJ\_6X0fwdMnezxKQ0hTlBwLS8Zbot8HPXXldu6cFQl3a7rgAQkxgQ2-I5aBFdxn0YXWKqvpBezqwOi8zFlv7RIgBB4amHVcAv6qvGKt-)
 
-Once successful, your Metamask wallet should display **“Connected”** on the upper right left corner. Make sure it is on the Binance Smart Network!
+Once successful, your Metamask wallet should display **“Connected”** on the upper right left corner. Make sure it is on the Celo Network!
 
-![](https://lh6.googleusercontent.com/NNMokRkRcAZviu-P3C2mEiMoyRr2EhDjLukU2sU8prU6M8uNKXRelopfKVp0ulxlo-YHMVvYMwHXPVhsfbA-qi75m0HF8b67tMB1do5RUkLA3xun1E4jAFACM9nzpv4xFUjx2DkZ)
+![](../.gitbook/assets/image.png)
 
 Now you are all set up to use all of CStable!
 
