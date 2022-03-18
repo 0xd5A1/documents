@@ -7,4 +7,4 @@
 * [CST](cst.md)
 * [Tutorials](tutorials/README.md)
   * [Connect Your Wallet](tutorials/connect-your-wallet.md)
-  * [Page 2](tutorials/page-2.md)
+  * [Make Payments get BST](tutorials/make-payments-get-bst.md)
