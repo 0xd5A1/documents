@@ -4,6 +4,8 @@ description: DeFi Stablecoin Payments & Pay-to-Earn
 
 # Welcome to CStable
 
+### ![](.gitbook/assets/CSTLOGO.png)
+
 ### Hello and welcome to CStable
 
 **We're making payments easy and trustless.**&#x20;
