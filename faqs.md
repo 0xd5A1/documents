@@ -4,7 +4,7 @@ description: 'CStable and CST: the basics.'
 
 # FAQs
 
-## What is bStable?
+## What is CStable?
 
 **bStable is a decentralized payment protocol that rewards users for making payments.**
 
