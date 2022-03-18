@@ -30,7 +30,7 @@ Select **Custom RPC** and configure the network as follows:
 
 Make sure you **deposit some CELO** into your wallet on the Celo Blockchain Network and you will be ready to go!
 
-If you are having trouble, [try Binance’s tutorial here](https://docs.binance.org/smart-chain/wallet/metamask.html).
+If you are having trouble, [try Celo’s tutorial here](https://docs.celo.org/getting-started/wallets/using-metamask-with-celo).
 
 ### **Step 2: Connect your BSC Metamask Wallet with CStable**
 
