@@ -16,7 +16,7 @@ Once Metamask Wallet is set up, open it and select network.
 
 Select **Custom RPC** and configure the network as follows:
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 **Network name:** Celo (Mainnet)
 
