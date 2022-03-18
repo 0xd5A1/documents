@@ -1,4 +1,4 @@
-# Make Payments get BST
+# Make Payments get CST
 
 ### Step 1: Approve Payment
 
