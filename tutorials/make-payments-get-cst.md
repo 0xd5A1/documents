@@ -4,11 +4,9 @@
 
 Input amount and select desired currency for payment. Then select "Approve".
 
-![](broken-reference)
+![](<../.gitbook/assets/image (3).png>)
 
 Once you select "Approve", a confirmation box will pop up. Notice the 3% fee will be automatically added to the amount.
-
-![](broken-reference)
 
 _Note: You will only be able to use the amount you approved or less. If you want to exchange a larger amount you will have to approve the large quantity again. You can select “Infinity Approval” to skip all future approval for this currency._
 
